@@ -35,3 +35,7 @@ jupyter notebook 1st_Network.ipynb
 ```
 
 MNIST is downloaded automatically the first time with scikit-learn.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
